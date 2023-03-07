@@ -32,7 +32,7 @@ Teridiri dari 6 kelas :
     Memiliki 3 atribut yaitu matkul,dosen_list dan mahasiswa_list.Untuk dosen_list dan mahasiswa_list merupakan array of object,yang mana dia adalah list yang dapat  menampung beberapa objek di dalamnya.Kelas ini ber-composite dengan kelas mahasiswa dan kelas dosen.Terdapat setter dan getter untuk masing-masing atribut pada kelas ini serta penambahan method add_dosen dan add_mahasiswa.
  6. class Program_Studi
 
-   Memiliki 3 atribut yaitu matkul,kode dan course_list.Untuk course_list merupakan array of object,yang mana dia adalah list yang dapat menampung beberapa objek di dalamnya.Kelas ini ber-composite dengan kelas course.Terdapat setter dan getter untuk masing-masing atribut pada kelas ini serta penambahan method add_course.
+    Memiliki 3 atribut yaitu matkul,kode dan course_list.Untuk course_list merupakan array of object,yang mana dia adalah list yang dapat menampung beberapa objek di dalamnya.Kelas ini ber-composite dengan kelas course.Terdapat setter dan getter untuk masing-masing atribut pada kelas ini serta penambahan method add_course.
 
 Untuk UML nya bisa dilihat pada gambar berikut :
 ### UML
