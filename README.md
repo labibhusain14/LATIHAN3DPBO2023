@@ -1,4 +1,4 @@
-# LATIHAN3DPBO2023
+# LATIHAN4DPBO2023
 
 ## Janji
 *Saya Mohammad Labib Husain mengerjakan Latihan 4 dalam mata kuliah Desain Pemrograman Berbasis Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.*
